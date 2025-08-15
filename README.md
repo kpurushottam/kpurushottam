@@ -3,8 +3,8 @@
 **Lead Android Engineer (SDE III)** with 10+ years’ experience building scalable, high-impact Android applications and SDKs across consumer apps, system apps, ad-tech, and AI-driven experiences.  
 Proven expertise in architecting **cross-platform mobile products**, integrating **AI/LLM features**, collaborating with OEMs, and leading agile teams from concept to release.
 
-- Currently at **Glance (InMobi Group)** — shaping AI-driven lockscreen and content delivery experiences for **Samsung Galaxy Store** users.  
-- Previously at **Paytm**, **InMobi**, **Craterzone**, and **CarWale** delivering high-scale products used by millions.  
+- Currently at **[Glance](https://www.linkedin.com/company/glancescreen/)** — shaping AI-driven lockscreen and content delivery experiences for **Samsung Galaxy Store** users.  
+- Previously at **[InMobi](https://www.linkedin.com/company/inmobiadvertising/posts/?feedView=all)**, **[Paytm](https://www.linkedin.com/company/paytm/posts/?feedView=all)** and **[CarWale (on-site by Craterzone)](https://www.linkedin.com/company/automotive-exchange-private-limited-carwale-com-/)** delivering high-scale products used by millions.  
 - Built **system-level apps** preloaded on Motorola devices globally.  
 
 ---
