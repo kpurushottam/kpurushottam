@@ -5,7 +5,7 @@ Proven expertise in architecting **cross-platform mobile products**, integrating
 
 - Currently at **[Glance](https://www.linkedin.com/company/glancescreen/)** — shaping AI-driven lockscreen and content delivery experiences for **Samsung Galaxy Store** users.  
 - Previously at **[InMobi](https://www.linkedin.com/company/inmobiadvertising/posts/?feedView=all)**, **[Paytm](https://www.linkedin.com/company/paytm/posts/?feedView=all)** and **[CarWale (on-site by Craterzone)](https://www.linkedin.com/company/automotive-exchange-private-limited-carwale-com-/)** delivering high-scale products used by millions.  
-- Built **system-level apps** preloaded on Motorola devices globally.  
+- Built **[system-level apps](https://forums.lenovo.com/t5/moto-g52/Mobile-application-manager-section-in-app-settings-after-January-security-patch-update/m-p/5285714?utm_source=chatgpt.com)** preloaded on Motorola devices globally.  
 
 ---
 
